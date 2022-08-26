@@ -11,4 +11,4 @@ Installation:
 5- Start <br>
 <br> <br>
 NOTE: "PROFIT" should average "1,3". The maximum can be 20. If you increase it above, the probability of damage is very high.
-NOTE: If the project is not running, you need Python software for the project.
+(If the project is not running, you need Python software for the project.)
