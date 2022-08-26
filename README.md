@@ -1,4 +1,4 @@
-# Pancake-Uniswap-Sniper-Bot
+# Pancake Uniswap Sniper / Token Bot
 It is an experimental project developed for Pancakeswap and Uniswap.
 <br>
 <br>
